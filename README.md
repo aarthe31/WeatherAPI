@@ -21,9 +21,9 @@ The purpose of this application is to retrieve the weather information from open
 - Enter valid city for 'city' and country code for 'countryCode' and one of the api keys for 'apiKey' as mentioned below.
 - The permitted API Keys are:
 
-	1. a5a059298f457f64a6bf001e35bbe526
-		2. 11100215fe5ae9873a3918f35fd129a3
-		3. 0043f1d70cbc253d30568cec36d7c141
-		4. d7e92b49ff950f5a35ce07a7bc96f998
-		5. daf3f452f423d6956098f48ae8ab4fa4
+	- 1. a5a059298f457f64a6bf001e35bbe526
+	- 2. 11100215fe5ae9873a3918f35fd129a3
+	- 3. 0043f1d70cbc253d30568cec36d7c141
+	- 4. d7e92b49ff950f5a35ce07a7bc96f998
+	- 5. daf3f452f423d6956098f48ae8ab4fa4
 - The API Keys can be changed in application.properties file"# WeatherAPI" 
